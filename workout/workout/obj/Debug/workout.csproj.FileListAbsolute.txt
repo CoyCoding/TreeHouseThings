@@ -1,0 +1,7 @@
+C:\Users\DickButt\source\repos\workout\workout\bin\Debug\workout.exe.config
+C:\Users\DickButt\source\repos\workout\workout\bin\Debug\workout.exe
+C:\Users\DickButt\source\repos\workout\workout\bin\Debug\workout.pdb
+C:\Users\DickButt\source\repos\workout\workout\obj\Debug\workout.csprojAssemblyReference.cache
+C:\Users\DickButt\source\repos\workout\workout\obj\Debug\workout.csproj.CoreCompileInputs.cache
+C:\Users\DickButt\source\repos\workout\workout\obj\Debug\workout.exe
+C:\Users\DickButt\source\repos\workout\workout\obj\Debug\workout.pdb
