@@ -7,7 +7,13 @@ public static class StringExtensions
             throw new ArgumentNullException(nameof(@this));
         }
         
-        return @this.Split(new [] {separator}, count);
-        
+        return @this.Split(new [] {separator}, count);   
     }
+    
+    
+    public static bool IsNullOrEmpty(this string @this)
+    {
+         return string.IsNullOrEmpty(@this);  
+    }
+    
 }
